@@ -1,0 +1,18 @@
+https://github.com/mongodb/node-mongodb-native
+
+mkdir node-todo-api
+
+cd node-todo-api 
+
+npm init
+(Press Enter for all the questions)
+
+Create a new folder "playground" for testing or learning purpose. This folder is not the part of todo app.
+
+touch playground/mongodb-connect.js
+
+First, we need to install the library
+
+Command to install the library
+
+npm install mongodb@2.2.5 --save
